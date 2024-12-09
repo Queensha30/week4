@@ -1,0 +1,20 @@
+Operator precedence in Python simply refers to the order of operations. Operators are used to perform operations on variables and values.
+
+# using the assigm operator 
+x = 6
+y = 2 
+# to generate the Add AND operator i.e  x + y = 8
+x += y
+print(x) 
+# to generate the subtract AND operator i.e x - y = 8 - 2 = 6  
+x -= y 
+print(x)
+# to generate the multiply AND ooperator i.e x * y = 6 * 2 = 12
+x *= y 
+print(x)
+# to generate the divide AND operator i.e x / 2 = 12 / 2 = 6  
+x /= y 
+print(x)
+# to generate the modulo AND operator 1.e x %= 2 = 6 % 2 = 0
+x %= y
+print(x)
